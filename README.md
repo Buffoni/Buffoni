@@ -10,7 +10,7 @@ I'm Lorenzo Buffoni, my research interests are in Machine Learning and its appli
 
 ## Connect with Me
 
-[![LinkedIn](LinkedIn_Icon_Link)](https://www.linkedin.com/in/lorenzobuffoni/)
+[![LinkedIn]](https://www.linkedin.com/in/lorenzobuffoni/)
 
 ## Projects
 
@@ -22,6 +22,6 @@ Here are some highlights of my recent projects:
 ## GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Buffoni&show_icons=true&theme=radical)
-)
+
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch. 😊
