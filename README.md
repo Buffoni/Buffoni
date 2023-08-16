@@ -21,6 +21,7 @@ Here are some highlights of my recent projects:
 
 ## GitHub Stats
 
-![My GitHub Stats](GitHub_Stats_Image_Link)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Buffoni&show_icons=true&theme=radical)
+)
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch. 😊
