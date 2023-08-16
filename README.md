@@ -10,7 +10,7 @@ I'm Lorenzo Buffoni, my research interests are in Machine Learning and its appli
 
 ## Connect with Me
 
-[![LinkedIn]](https://www.linkedin.com/in/lorenzobuffoni/)
+[LinkedIn](https://www.linkedin.com/in/lorenzobuffoni/)
 
 ## Projects
 
